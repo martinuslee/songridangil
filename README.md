@@ -16,8 +16,13 @@ songridan-gil restaurant &amp; cafe instagram data analysis
 <img src="https://user-images.githubusercontent.com/70839563/104911096-ab2db800-59cd-11eb-9baf-a698caa5a7fe.png">
 
 ## CIRCLED MAP
+
+인스타그램에 많이 업로드된 곳을 kakao map api를 활용하여 지도에 표시
+
 https://martinuslee.github.io/songridangil/songrildan.html
 
 ## CLUSTERD MAP
+
+각 영역을 클러스터하여 지도에 표시
 https://martinuslee.github.io/songridangil/map_cluster.html
 
