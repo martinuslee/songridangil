@@ -1,4 +1,4 @@
-# Instagram Hastag를 활용한 송리단길 관련 음식점, 카페, 술집 등 상권 데이터 분석
+# 인스타 해시태그를 활용한 송리단길 음식점, 카페, 술집 등 상권 데이터 분석
 
 활용 툴 : python3, jupyter nodebook, pandas, beautifulsoup, selenium, kakao map api etc..
 
