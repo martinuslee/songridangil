@@ -9,4 +9,4 @@ songridan-gil restaurant &amp; cafe instagram data analysis
 
 https://martinuslee.github.io/songridangil/map_cluster.html
 
-https://martinuslee.github.io/songridangil/songridangil.html
+https://martinuslee.github.io/songridangil/songridan.html
